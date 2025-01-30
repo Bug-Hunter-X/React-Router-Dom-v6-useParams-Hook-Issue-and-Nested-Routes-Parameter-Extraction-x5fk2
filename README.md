@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with the useParams hook in React Router Dom v6, specifically when used outside of a route with defined parameters, and nested routes with parameter mismatches. The bug.js file shows the erroneous implementation, while bugSolution.js provides the correct implementation along with explanations for the changes to resolve the issue.
